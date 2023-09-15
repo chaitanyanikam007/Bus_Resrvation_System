@@ -25,7 +25,7 @@ Technologies used in the project
 •	JWT
 •	Spring AOP
 •	Hibernate
-•	JPA
+•	Jsp
 # Database
 •	Mysql 8
 # IDE
